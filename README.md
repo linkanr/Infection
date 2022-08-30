@@ -1,5 +1,9 @@
 # Infection
 Infection is a solver for Houdini that move and grows density. 
+
+Installation: 
+Just copy all the otls to your otl folder. On windows it can be found @ /documents/houdini_version/otls
+
 Useage is completely free but if you like it please help support further growth
 by clicking the by donating. 
 <P>
