@@ -14,7 +14,9 @@ by clicking the by donating.
 
 Updates: 
 
-21-09-22 Update to the copy and animation node. The copy node now has an input animation lenght that can be used to set how long the incoming animation should be
+21-09-22 v 1.1:
+Overhaul of the copy and animation node. The copy node now has an input animation lenght that can be used to set how long the incoming animation should be.
+  
 Update to attribute copy with the option of multiplying insted of adding from an external sop. This lets you kill of density where needed
 
 22-08-26 Intital release
