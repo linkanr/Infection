@@ -19,7 +19,7 @@ Group support for all microsolves
 Complete rework of visualiztion
 2 new microsolvers - Cell split and Ice growth
 Fast configure setups for a fast workflow
-Tons of minor changes and bugfixes <BR>
+Tons of minor changes and bugfixes <P>
 Release video:https://vimeo.com/781839603
 
 21-09-22 v 1.1:
