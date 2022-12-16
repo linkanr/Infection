@@ -13,6 +13,13 @@ by clicking the by donating.
 <a href="https://www.buymeacoffee.com/Infection" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 Updates: 
+22-12-16 V 2.0
+New sop solver
+Group support for all microsolves
+Complete rework of visualiztion
+2 new microsolvers - Cell split and Ice growth
+Fast configure setups for a fast workflow
+Tons of minor changes and bugfixes
 
 21-09-22 v 1.1:
 Overhaul of the copy and animation node. The copy node now has an input animation lenght that can be used to set how long the incoming animation should be.
