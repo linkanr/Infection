@@ -20,7 +20,9 @@ Complete rework of visualiztion
 2 new microsolvers - Cell split and Ice growth
 Fast configure setups for a fast workflow
 Tons of minor changes and bugfixes <P>
-Release video: https://vimeo.com/781839603
+Longform video: https://vimeo.com/781839603
+
+Release video: https://vimeo.com/788703578
 
 21-09-22 v 1.1:
 Overhaul of the copy and animation node. The copy node now has an input animation lenght that can be used to set how long the incoming animation should be.
