@@ -6,7 +6,7 @@ Just copy all the otls to your otl folder. On windows it can be found @ /documen
 
 There a some useful information on the wiki, I will try to make it more complete when I have the time
 
-Useage is completely free but if you like it please help support further growth
+Usage is completely free but if you like it please help support further growth
 by clicking the by donating. 
 <P>
 <CENTER>
