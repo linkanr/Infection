@@ -6,13 +6,23 @@ Just copy all the otls to your otl folder. On windows it can be found @ /documen
 
 There a some useful information on the wiki, I will try to make it more complete when I have the time
 
-Useage is completely free but if you like it please help support further growth
+Usage is completely free but if you like it please help support further growth
 by clicking the by donating. 
 <P>
 <CENTER>
 <a href="https://www.buymeacoffee.com/Infection" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 Updates: 
+22-12-16 V 2.0 <P>
+New sop solver
+Group support for all microsolves
+Complete rework of visualiztion
+2 new microsolvers - Cell split and Ice growth
+Fast configure setups for a fast workflow
+Tons of minor changes and bugfixes <P>
+Longform video: https://vimeo.com/781839603
+
+Release video: https://vimeo.com/788703578
 
 21-09-22 v 1.1:
 Overhaul of the copy and animation node. The copy node now has an input animation lenght that can be used to set how long the incoming animation should be.
